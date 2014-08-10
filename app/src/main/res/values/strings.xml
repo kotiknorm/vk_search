@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Поиск Вконтакте</string>
+    <string name="param_search">Параметры поиска</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_api_call">ApiCallActivity</string>
+
+    <plurals name="peoples">
+        <item quantity="zero">Найдено %1$d человек</item>
+        <item quantity="one">Найдено %1$d человек</item>
+        <item quantity="two">Найдено %1$d человека</item>
+        <item quantity="few">Найдено %1$d человека</item>
+        <item quantity="many">Найдено %1$d человек</item>
+        <item quantity="other">Найдено %1$d андроидов</item>
+    </plurals>
+
+</resources>
