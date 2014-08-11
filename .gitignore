@@ -21,4 +21,7 @@ local.properties
 proguard/
 
 
+.idea
+
+/.idea
 /.idea
